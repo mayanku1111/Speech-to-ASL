@@ -8,9 +8,9 @@ Speech recognition to american sign language(ASL) on gradio interface
 
 # Future improvement possible paths
 
-# 1.Using this video [dataset](http://mocap.cs.cmu.edu/) for producing video 
+## 1.Using this video [dataset](http://mocap.cs.cmu.edu/) for producing video 
 
-# 2.Real time speech to sign language video
+## 2.Real time speech to sign language video
 
-# 3.This is about Human Motion Generation with Diffusion Models [link](https://is.mpg.de/events/human-motion-generation-with-diffusion-models)
+## 3.This is about Human Motion Generation with Diffusion Models [link](https://is.mpg.de/events/human-motion-generation-with-diffusion-models)
 
