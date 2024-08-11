@@ -1,10 +1,13 @@
 # Speech-to-ASL
 Speech recognition to american sign language(ASL) on gradio interface 
 
-# How to run this code?
+## How to run this code?
 ## step-1-obtain weight by running this colab [file](Copy_of_Yet_another_copy_of_projNUS101.ipynb)
 
-## step-2-Upload weights in colab and just run [this](Copying_of_FinalNUSproject1.ipynb)
+## Or you can get weights here 
+
+## step-2-Upload weights in mydrive ,set path and just run [this](Copying_of_FinalNUSproject1.ipynb)
+https://drive.google.com/drive/folders/1gsqIDmyT8H-Yy_-Z7pSNvnVShIYfBbiB?usp=sharing
 
 # Future improvement possible paths
 
