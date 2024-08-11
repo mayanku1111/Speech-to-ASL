@@ -8,11 +8,11 @@ Speech recognition to american sign language(ASL) on gradio interface
 
 ### you can get text mapped video data here [Link](https://drive.google.com/drive/folders/1gsqIDmyT8H-Yy_-Z7pSNvnVShIYfBbiB?usp=sharing)
 
-workflow
+workflow:- 
+
 upload weights and text mapped video to mydrive and do step2
 
 ## step-2-Upload weights in mydrive ,set path and just run [this](Copying_of_FinalNUSproject1.ipynb)
-https://drive.google.com/drive/folders/1gsqIDmyT8H-Yy_-Z7pSNvnVShIYfBbiB?usp=sharing
 
 # Future improvement possible paths
 
